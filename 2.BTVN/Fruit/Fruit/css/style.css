@@ -1,0 +1,16 @@
+.body{
+    background-color: aqua;
+}
+.container{
+    display: flex;
+    width: 1000px;
+    height: 500px;
+    margin-left: 300px;
+      
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
